@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Tangerine', cursive;
+    
+}
+
+body{
+    background-color: black;
+}
+
+
+.dev-sorteio{
+    width: 400px;
+    margin: auto;
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    
+}
+
+h3{
+    width: 400px;
+    color: #ffffff;
+    margin: auto;
+    display: flex;
+    margin-top: 1px;
+    margin-left: 37.2%;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 37.5px;
+}
+
+
+div{
+
+    margin-left: 26.5%;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    padding: -50px;
+    
+}
+
+.meu-imput, .meu-imput-max{
+
+    margin-right: 40px;
+    width: 342px;
+    height: 74px;
+    border-radius: 14px;
+    border: 1px;
+    background: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 48.88px;
+    margin-top: 10px;
+
+}
+
+button{
+
+    width: 342px;
+    height: 72px;
+    margin-left: 38.5%;
+    margin-top: 30px;
+    border-radius: 10px;
+    background: rgb(217, 45, 45);
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 2.5px;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.5;
+}
+
+
+.juntos-misturados{
+    width: 300px;
+    margin-left: 40%;
+    padding: -100px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
